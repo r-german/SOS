@@ -178,7 +178,7 @@ header::after {
 }
 header .header-container {
   min-height: 100vh;
-  min-height: 100svh;
+  min-height: 100lvh;
   display: -ms-grid;
   display: grid;
   -ms-grid-rows: auto 1fr;
